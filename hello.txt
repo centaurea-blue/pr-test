@@ -1,6 +1,7 @@
-월요일
-화요일
-수요일
+1 월요일
+화요일 Tuesday
+수요일 Wednesda
+
 Thursday
 Friday
 Saturday
